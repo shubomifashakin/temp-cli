@@ -1,6 +1,6 @@
 {
   "name": "@545plea/temp-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Cli tool for Temp - ephemeral file sharing",
   "main": "dist/index.js",
   "scripts": {
@@ -26,6 +26,10 @@
     "temporary",
     "file storage"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shubomifashakin/temp-cli"
+  },
   "author": "Fashakin Olashubomi",
   "license": "MIT",
   "type": "module",
